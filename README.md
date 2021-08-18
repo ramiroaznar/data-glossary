@@ -79,6 +79,8 @@ Most of the references used in this glossary come from Wikipedia and the first s
 
 * **open data**: Open Data is the idea that some data should be freely available to everyone to use and republish as they wish, without restrictions from copyright, patents or other mechanisms of control.
 
+* **data ops**: DataOps is a set of practices and tools that allow data scientists, data engineers, infrastructure engineers and also developers to collaborate together having full autonomy, ownership and accountability of the data product.
+
 * **personal data**: Personal data is information that relates to an identified or identifiable individual.
 
 * **data pipeline**: A pipeline or data pipeline is a set of data processing elements connected in series, where the output of one element is the input of the next one.
