@@ -13,7 +13,9 @@ Most of the references used in this glossary come from Wikipedia and the first s
 
 * **data architecture**: Data architecture is a framework for how IT infrastructure supports your data strategy. The goal of any data architecture is to show the company's infrastructure how data is acquired, transported, stored, queried, and secured. A data architecture is the foundation of any data strategy.
 
-* **data analysis**: Data Analysis is the process of systematically applying statistical and/or logical techniques to describe and illustrate, condense and recap, and evaluate data. A data analyst collects, cleans, and interprets data sets in order to answer a question or solve a problemd **data anomaly**: Data anomalies are rare items, events or observations which raise suspicions by differing significantly from the majority of the data. Anomalies are also referred to as outliers, novelties, noise, deviations and exceptions.
+* **data analysis**: Data Analysis is the process of systematically applying statistical and/or logical techniques to describe and illustrate, condense and recap, and evaluate data. A data analyst collects, cleans, and interprets data sets in order to answer a question or solve a problem. 
+  
+* **data anomaly**: Data anomalies are rare items, events or observations which raise suspicions by differing significantly from the majority of the data. Anomalies are also referred to as outliers, novelties, noise, deviations and exceptions.
   
 * **database**: A database is an organized collection of data stored and accessed electronically from a computer system.
 
@@ -37,7 +39,9 @@ Most of the references used in this glossary come from Wikipedia and the first s
 
 * **data dump**: A database dump contains a record of the table structure and/or the data from a database and is usually in the form of a list of SQL statements. A database dump is most often used for backing up a database so that its contents can be restored in the event of data loss.
 
-* **data ecosystem**: A data ecosystem is a collection of infrastructure, analytics, and applications used to capture and analyze datad **data engineering**: Data engineering is the aspect of data science that focuses on practical applications of data collection and analysis. Data engineers built ETL pipelines and maintain databases.
+* **data ecosystem**: A data ecosystem is a collection of infrastructure, analytics, and applications used to capture and analyze data. 
+
+* **data engineering**: Data engineering is the aspect of data science that focuses on practical applications of data collection and analysis. Data engineers built ETL pipelines and maintain databases.
 
 * **event data**: Event data is any data that you want to measure about an event.
 
@@ -51,7 +55,9 @@ Most of the references used in this glossary come from Wikipedia and the first s
 
 * **data infrastructure**: Data Infrastructure can be seen as a complete technology, process, or a whole set up to store, maintain, organize, and distribute it in the form of insightful information.
 
-* **data insights**: Data insights are knowledge that a company gains from analyzing sets of information pertaining to a given topic or situationd **data lake**: A data lake is a storage repository that holds a vast amount of raw data in its native format until it is needed.
+* **data insights**: Data insights are knowledge that a company gains from analyzing sets of information pertaining to a given topic or situation. 
+  
+* **data lake**: A data lake is a storage repository that holds a vast amount of raw data in its native format until it is needed.
 
 * **data leak**: A data leak, spill or breach is the intentional or unintentional release of secure or private/confidential information to an untrusted environment.
 
