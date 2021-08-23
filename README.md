@@ -3,142 +3,78 @@
 * Data glossary curated by [@ramiroaznar](https://twitter.com/ramiroaznar)
 * [Original Spreadsheet](https://docs.google.com/spreadsheets/d/1DIh6jLGLvCGK093BBgq52yqIk1M1z9vF3yjqouYdmc4/edit#gid=0)
 
-## References [wip]
-
-Most of the references used in this glossary come from Wikipedia and the first search results in Google.
-
 ## List
 
-* **data accuracy**: Data accuracy is one of the components of data quality. It refers to whether the data values stored for an object are the correct values. To be correct, a data values must be the right value and must be represented in a consistent and unambiguous form.
-
-* **data architecture**: Data architecture is a framework for how IT infrastructure supports your data strategy. The goal of any data architecture is to show the company's infrastructure how data is acquired, transported, stored, queried, and secured. A data architecture is the foundation of any data strategy.
-
-* **data analysis**: Data Analysis is the process of systematically applying statistical and/or logical techniques to describe and illustrate, condense and recap, and evaluate data. A data analyst collects, cleans, and interprets data sets in order to answer a question or solve a problem. 
+* **[data accuracy](http://etutorials.org/Misc/data+quality/Part+I+Understanding+Data+Accuracy/Chapter+2+Definition+of+Accurate+Data/2.3+Data+Accuracy+Defined/)**: Data accuracy is one of the components of data quality. It refers to whether the data values stored for an object are the correct values. To be correct, a data values must be the right value and must be represented in a consistent and unambiguous form.<br/><br/>
+* **[data architecture](https://en.wikipedia.org/wiki/data_architecture)**: Data architecture is a framework for how IT infrastructure supports your data strategy. The goal of any data architecture is to show the company's infrastructure how data is acquired, transported, stored, queried, and secured. A data architecture is the foundation of any data strategy.<br/><br/>
+* **[data analysis](https://en.wikipedia.org/wiki/data_analysis)**: Data Analysis is the process of systematically applying statistical and/or logical techniques to describe and illustrate, condense and recap, and evaluate data. A data analyst collects, cleans, and interprets data sets in order to answer a question or solve a problem. <br/><br/>
+* **[data anomaly](https://en.wikipedia.org/wiki/data_anomaly)**: Data anomalies are rare items, events or observations which raise suspicions by differing significantly from the majority of the data. Anomalies are also referred to as outliers, novelties, noise, deviations and exceptions.<br/><br/>
+* **[database](https://en.wikipedia.org/wiki/database)**: A database is an organized collection of data stored and accessed electronically from a computer system.<br/><br/>
+* **[big data](https://en.wikipedia.org/wiki/big_data)**: The definition of big data is data that contains greater variety, arriving in increasing volumes and with more velocity. This is also known as the three Vs.<br/><br/>
+* **[data bug](https://dagshub.com/blog/data-bugs-how-to-fix-them/)**: A bug in the code or query that generates wrong data in any step of the modern data stack.<br/><br/>
+* **[data catalog](https://www.ibm.com/cloud/learn/data-catalog#:~:text=A%20data%20catalog%20is%20a,any%20analytical%20or%20business%20purpose.)**: A data catalog is a detailed inventory of all data assets in an organization, designed to help data professionals quickly find the most appropriate data for any analytical or business purpose.<br/><br/>
+* **[data center](https://en.wikipedia.org/wiki/data_center)**: A data center or data centre is a building, a dedicated space within a building, or a group of buildings used to house computer systems and associated components, such as telecommunications and storage systems.<br/><br/>
+* **[data cleansing](https://en.wikipedia.org/wiki/data_cleansing)**: Data cleansing or data cleaning is the process of detecting and correcting corrupt or inaccurate records from a record set, table, or database and refers to identifying incomplete, incorrect, inaccurate or irrelevant parts of the data and then replacing, modifying, or deleting the dirty or coarse data.<br/><br/>
+* **[data completeness](https://www.ibm.com/cloud/learn/data-catalog)**: Data completeness refers to the comprehensiveness or wholeness of the data. There should be no gaps or missing information for data to be truly complete. Sometimes incomplete data is unusable, but often it's still used even with missing information, which can lead to costly mistakes and false conclusions.<br/><br/>
+* **[data cube](https://en.wikipedia.org/wiki/data_cube)**: A data cube refers is a three-dimensional (3D) (or higher) range of values that are generally used to explain the time sequence of an image's data.<br/><br/>
+* **[data culture](https://en.wikipedia.org/wiki/data_culture)**: Data culture is the principle established in the process of social practice in both public and private sectors which requires all staffs and decision-makers to focus on the information conveyed by the existing data, and make decisions and changes according to these results instead of leading the development of the company based on experience in the particular field.<br/><br/>
+* **[derived data](https://www.dataversity.net/careful-derived-data/#:~:text=Derived%20data%20is%20data%20that,Consider%20a%20bank%20account.)**: Derived data is data that can be computed from other base data.<br/><br/>
+* **[data discovery](https://www.tibco.com/reference-center/what-is-data-discovery)**: Data discovery involves the collection and evaluation of data from various sources and is often used to understand trends and patterns in the data. It requires a progression of steps that organizations can use as a framework to understand their data. Data discovery, usually associated with business intelligence (BI), helps inform business decisions by bringing together disparate, siloed data sources to be analyzed.<br/><br/>
+* **[data downtime](https://www.montecarlodata.com/the-rise-of-data-downtime/)**: Data downtime refers to periods of time when your data is partial, erroneous, missing or otherwise inaccurate.<br/><br/>
+* **[data driven](https://en.wikipedia.org/wiki/data_driven)**: When a company employs a “data-driven” approach, it means it makes strategic decisions based on data analysis and interpretation. A data-driven approach enables companies to examine and organise their data with the goal of better serving their customers and consumers.<br/><br/>
+* **[data dump](https://en.wikipedia.org/wiki/data_dump)**: A database dump contains a record of the table structure and/or the data from a database and is usually in the form of a list of SQL statements. A database dump is most often used for backing up a database so that its contents can be restored in the event of data loss.<br/><br/>
+* **[data ecosystem](https://mixpanel.com/blog/what-is-a-data-ecosystem/#:~:text=A%20data%20ecosystem%20is%20a,%2C%20operations%2C%20and%20marketing%20decisions.)**: A data ecosystem is a collection of infrastructure, analytics, and applications used to capture and analyze data. <br/><br/>
+* **[data engineering](https://www.datasciencegraduateprograms.com/data-engineering/#:~:text=Data%20engineering%20is%20the%20aspect,of%20data%20collection%20and%20analysis.&text=Those%20are%20both%20engineering%20tasks,and%20harvesting%20of%20big%20data.)**: Data engineering is the aspect of data science that focuses on practical applications of data collection and analysis. Data engineers built ETL pipelines and maintain databases.<br/><br/>
+* **[event data](https://www.ibm.com/docs/en/pm-and-q/2.6?topic=event-data)**: Event data is any data that you want to measure about an event.<br/><br/>
+* **[exploratory data analysis](https://en.wikipedia.org/wiki/exploratory_data_analysis)**: Exploratory data analysis is an approach of analyzing data sets to summarize their main characteristics, often using statistical graphics and other data visualization methods.<br/><br/>
+* **[data format](https://en.wikipedia.org/wiki/data_format)**: A data format or data type is an attribute of data which tells the compiler or interpreter how the programmer intends to use the data. Most programming languages support basic data types of integer numbers (of varying sizes), floating-point numbers (which approximate real numbers), characters and Booleans.<br/><br/>
+* **[dataframe](https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html#:~:text=to%20different%20objects.-,DataFrame,a%20dict%20of%20Series%20objects.&text=Dict%20of%201D%20ndarrays%2C%20lists,2%2DD%20numpy.)**: DataFrame is a 2-dimensional labeled data structure with columns of potentially different types.<br/><br/>
+* **[data governance](https://en.wikipedia.org/wiki/data_governance)**: Data governance is a collection of processes, roles, policies, standards, and metrics that ensure the effective and efficient use of information in enabling an organization to achieve its goals.<br/><br/>
+* **[data infrastructure](https://alcorfund.com/insight/data-infrastructure-everything-you-need-to-know-about-it/)**: Data Infrastructure can be seen as a complete technology, process, or a whole set up to store, maintain, organize, and distribute it in the form of insightful information.<br/><br/>
+* **[data insights](https://algorithmia.com/blog/what-are-data-insights#:~:text=Data%20insights%20are%20knowledge%20that,%2Dand%2Derror%20testing%20methods.)**: Data insights are knowledge that a company gains from analyzing sets of information pertaining to a given topic or situation. <br/><br/>
+* **[data lake](https://en.wikipedia.org/wiki/data_lake)**: A data lake is a storage repository that holds a vast amount of raw data in its native format until it is needed.<br/><br/>
+* **[data leak](https://en.wikipedia.org/wiki/data_leak)**: A data leak, spill or breach is the intentional or unintentional release of secure or private/confidential information to an untrusted environment.<br/><br/>
+* **[data legacy](https://en.wikipedia.org/wiki/data_legacy)**: Historical data that are used by a legacy system that could be defined as a long-term mission-critical system that performs important business functions and contains comprehensive business knowledge.<br/><br/>
+* **[linked data](https://en.wikipedia.org/wiki/linked_data)**: Linked data is structured data which is interlinked with other data so it becomes more useful through semantic queries. <br/><br/>
+* **[data literacy](https://en.wikipedia.org/wiki/data_literacy)**: Data literacy is the ability to read, understand, create, and communicate data as information.<br/><br/>
+* **[data management](https://en.wikipedia.org/wiki/data_management)**: Data management is the practice of collecting, keeping, and using data securely, efficiently, and cost-effectively.<br/><br/>
+* **[data mart](https://en.wikipedia.org/wiki/data_mart)**: A data mart is a structure / access pattern specific to data warehouse environments, used to retrieve client-facing data.<br/><br/>
+* **[data mesh](https://martinfowler.com/articles/data-mesh-principles.html)**: Data system that tries to achieve the promise of scale, while delivering quality and integrity guarantees needed to make data usable : 1) domain-oriented decentralized data ownership and architecture, 2) data as a product, 3) self-serve data infrastructure as a platform, and 4) federated computational governance.<br/><br/>
+* **[metadata](https://en.wikipedia.org/wiki/metadata)**: Metadata is data about data. In other words, it's information that's used to describe the data that's contained in something like a web page, document, or file.<br/><br/>
+* **[data migration](https://en.wikipedia.org/wiki/data_migration)**: Data migration or database migration is the process of selecting, preparing, extracting, and transforming data and permanently transferring it from one computer storage system to another.<br/><br/>
+* **[data mining](https://en.wikipedia.org/wiki/data_mining)**: Data mining is a process of extracting and discovering patterns in large data sets involving methods at the intersection of machine learning, statistics, and database systems.<br/><br/>
+* **[data model](https://en.wikipedia.org/wiki/data_model)**: A data model is an abstract model that organizes elements of data and standardizes how they relate to one another and to the properties of real-world entities.<br/><br/>
+* **[data monetization](https://en.wikipedia.org/wiki/data_monetization)**: Data Monetization refers to the process of using data to obtain quantifiable economic benefit.<br/><br/>
+* **[data monitoring](https://en.wikipedia.org/wiki/data_monitoring)**: Data monitoring is a business practice in which critical business data is routinely checked against quality control rules to make sure it is always of high quality and meets previously established standards for formatting and consistency.<br/><br/>
+* **[data observability](https://towardsdatascience.com/what-is-data-observability-40b337971e3e)**: Data Observability is an organization’s ability to fully understand the health of the data in their system, eliminates data downtime by applying best practices of DevOps Observability to data pipelines. <br/><br/>
+* **[open data](https://en.wikipedia.org/wiki/open_data)**: Open Data is the idea that some data should be freely available to everyone to use and republish as they wish, without restrictions from copyright, patents or other mechanisms of control.<br/><br/>
+* **[data ops](https://blog.tinybird.co/2021/02/27/dataops/)**: DataOps is a set of practices and tools that allow data scientists, data engineers, infrastructure engineers and also developers to collaborate together having full autonomy, ownership and accountability of the data product.<br/><br/>
+* **[personal data](https://en.wikipedia.org/wiki/personal_data)**: Personal data is information that relates to an identified or identifiable individual.<br/><br/>
+* **[data pipeline](https://en.wikipedia.org/wiki/data_pipeline)**: A pipeline or data pipeline is a set of data processing elements connected in series, where the output of one element is the input of the next one.<br/><br/>
+* **[data platform](https://www.mongodb.com/what-is-a-data-platform#:~:text=A%20data%20platform%20is%20an,layer%20for%20users%20and%20applications.)**: A data platform is an integrated technology solution that allows data located in database(s) to be governed, accessed, and delivered to users, data applications, or other technologies for strategic business purposes.<br/><br/>
+* **[data point](https://en.wikipedia.org/wiki/data_point)**: A data point or observation is a set of one or more measurements on a single member of the unit of observation.<br/><br/>
+* **[open data portal](https://en.wikipedia.org/wiki/open_data_portal)**: An open data portal is any online platform which supports users in accessing collections of open data.<br/><br/>
+* **[data product](https://www.tableau.com/learn/whitepapers/turn-data-products-data-scientist-data-business-owner#:~:text=A%20data%20product%20is%20an,improve%20their%20decisions%20and%20processes.&text=Reaching%20business%20objectives%20through%20informed,main%20driver%20for%20company%20adoption.)**: A data product is an application or tool that uses data to help businesses improve their decisions and processes.<br/><br/>
+* **[data quality](https://en.wikipedia.org/wiki/data_quality)**: Data quality is a measure of the condition of data based on factors such as accuracy, completeness, consistency, reliability and whether it's up to date.<br/><br/>
+* **[real-time data](https://en.wikipedia.org/wiki/real-time_data)**: Real-time data is information that is delivered immediately after collection. There is no delay in the timeliness of the information provided.<br/><br/>
+* **[data reporting](https://en.wikipedia.org/wiki/data_reporting)**: Data reporting is the process of collecting and formatting raw data and translating it into a digestible format to assess the ongoing performance of your organization. Your data reports can answer basic questions about the state of your business.<br/><br/>
+* **[data schema](https://en.wikipedia.org/wiki/data_schema)**: A database schema is the skeleton structure that represents the logical view of the entire database. It defines how the data is organized and how the relations among them are associated. It formulates all the constraints that are to be applied on the data.<br/><br/>
+* **[data science](https://en.wikipedia.org/wiki/data_science)**: Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from structured and unstructured data, and apply knowledge and actionable insights from data across a broad range of application domains.<br/><br/>
+* **[data scraping](https://en.wikipedia.org/wiki/data_scraping)**: Data scraping is a technique where a computer program extracts data from human-readable output coming from another program.<br/><br/>
+* **[data security](https://en.wikipedia.org/wiki/data_security)**: Data security refers to the process of protecting data from unauthorized access and data corruption throughout its lifecycle. Data security includes data encryption, hashing, tokenization, and key management practices that protect data across all applications and platforms.<br/><br/>
+* **[data set](https://en.wikipedia.org/wiki/data_set)**: A data set (or dataset) is a collection of data.<br/><br/>
+* **[spatial data](https://en.wikipedia.org/wiki/spatial_data)**: Geospatial, spatial, geographic or location data is information that describes objects, events or other features with a location on or near the surface of the earth. Geospatial data typically combines location information (usually coordinates on the earth) and attribute information (the characteristics of the object, event or phenomena concerned) with temporal information (the time or life span at which the location and attributes exist).<br/><br/>
+* **[data definition specification](https://en.wikipedia.org/wiki/data_definition_specification)**: A data definition specification is a guideline to ensure comprehensive and consistent data definition. It represents the attributes required to quantify data definition.<br/><br/>
+* **[data specialization](https://erikbern.com/2021/07/23/what-is-the-right-level-of-specialization.html)**: The different roles and positions (data scientist, data engineer, analytics engineer, ML engineer...) that are related to the modern data stack. It is also associated with the degree of specialization from generalists (almost full-stack engineers) to especialists.<br/><br/>
+* **[modern data stack](https://blog.getdbt.com/future-of-the-modern-data-stack/)**: The modern data stack (MDS) is a suite of tools used for data integration. These tools include, in order of how the data flows: a fully managed ELT data pipeline, a cloud-based columnar warehouse or data lake as a destination, a data transformation tool, and a business intelligence or data visualization platform.<br/><br/>
+* **[data storage](https://en.wikipedia.org/wiki/data_storage)**: Data storage refers to the use of recording media to retain data using computers or other devices.<br/><br/>
+* **[data structure](https://en.wikipedia.org/wiki/data_structure)**: A data structure is a data organization, management, and storage format that enables efficient access and modification. More precisely, a data structure is a collection of data values, the relationships among them, and the functions or operations that can be applied to the data, i.e., it is an algebraic structure about data.<br/><br/>
+* **[structured data](https://en.wikipedia.org/wiki/structured_data)**: Structured data is data that adheres to a pre-defined data model and is therefore straightforward to analyse. Structured data conforms to a tabular format with relationship between the different rows and columns. Common examples of structured data are Excel files or SQL databases.<br/><br/>
+* **[data synchronization](https://en.wikipedia.org/wiki/data_synchronization)**: Data synchronization is the process of establishing consistency among data from a source to a target data storage and vice versa and the continuous harmonization of the data over time.<br/><br/>
+* **[data team](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html)**: The group of people within a certain organization that is in charge of maintaining the modern data stack.<br/><br/>
+* **[test data](https://en.wikipedia.org/wiki/test_data)**: Test data is data which has been specifically identified for use in tests, typically of a computer program. Some data may be used in a confirmatory way, typically to verify that a given set of input to a given function produces some expected result.<br/><br/>
+* **[data type](https://en.wikipedia.org/wiki/data_type)**: A data type is a classification of data which tells the compiler or interpreter how the programmer intends to use the data. Most programming languages support various types of data, including integer, real, character or string, and Boolean.<br/><br/>
+* **[unstructured data](https://en.wikipedia.org/wiki/unstructured_data)**: Unstructured data is information that either does not have a pre-defined data model or is not organized in a pre-defined manner. Unstructured information is typically text-heavy, but may contain data such as dates, numbers, and facts as well.<br/><br/>
+* **[data visualization](https://en.wikipedia.org/wiki/data_visualization)**: Data visualization is an interdisciplinary field that deals with the graphic representation of data. It is a particularly efficient way of communicating when the data is numerous as for example a time series.<br/><br/>
+* **[data warehouse](https://en.wikipedia.org/wiki/data_warehouse)**: A data warehouse is a type of data management system that is designed to enable and support business intelligence (BI) activities, especially analytics. Data warehouses are solely intended to perform queries and analysis and often contain large amounts of historical data.<br/><br/>
   
-* **data anomaly**: Data anomalies are rare items, events or observations which raise suspicions by differing significantly from the majority of the data. Anomalies are also referred to as outliers, novelties, noise, deviations and exceptions.
-  
-* **database**: A database is an organized collection of data stored and accessed electronically from a computer system.
-
-* **big data**: The definition of big data is data that contains greater variety, arriving in increasing volumes and with more velocity. This is also known as the three Vs.
-
-* **data bug**: A bug in the code or query that generates wrong data in any step of the modern data stack.
-
-* **data center**: A data center or data centre is a building, a dedicated space within a building, or a group of buildings used to house computer systems and associated components, such as telecommunications and storage systems.
-
-* **data cleansing**: Data cleansing or data cleaning is the process of detecting and correcting corrupt or inaccurate records from a record set, table, or database and refers to identifying incomplete, incorrect, inaccurate or irrelevant parts of the data and then replacing, modifying, or deleting the dirty or coarse data.
-
-* **data completeness**: Data completeness refers to the comprehensiveness or wholeness of the data. There should be no gaps or missing information for data to be truly complete. Sometimes incomplete data is unusable, but often it's still used even with missing information, which can lead to costly mistakes and false conclusions.
-
-* **data cube**: A data cube refers is a three-dimensional (3D) (or higher) range of values that are generally used to explain the time sequence of an image's data.
-
-* **derived data**: Derived data is data that can be computed from other base data.
-
-* **data downtime**: Data downtime refers to periods of time when your data is partial, erroneous, missing or otherwise inaccurate.
-
-* **data driven**: When a company employs a “data-driven” approach, it means it makes strategic decisions based on data analysis and interpretation. A data-driven approach enables companies to examine and organise their data with the goal of better serving their customers and consumers.
-
-* **data dump**: A database dump contains a record of the table structure and/or the data from a database and is usually in the form of a list of SQL statements. A database dump is most often used for backing up a database so that its contents can be restored in the event of data loss.
-
-* **data ecosystem**: A data ecosystem is a collection of infrastructure, analytics, and applications used to capture and analyze data. 
-
-* **data engineering**: Data engineering is the aspect of data science that focuses on practical applications of data collection and analysis. Data engineers built ETL pipelines and maintain databases.
-
-* **event data**: Event data is any data that you want to measure about an event.
-
-* **exploratory data analysis**: Exploratory data analysis is an approach of analyzing data sets to summarize their main characteristics, often using statistical graphics and other data visualization methods.
-
-* **data format**: A data format or data type is an attribute of data which tells the compiler or interpreter how the programmer intends to use the data. Most programming languages support basic data types of integer numbers (of varying sizes), floating-point numbers (which approximate real numbers), characters and Booleans.
-
-* **dataframe**: DataFrame is a 2-dimensional labeled data structure with columns of potentially different types.
-
-* **data governance**: Data governance is a collection of processes, roles, policies, standards, and metrics that ensure the effective and efficient use of information in enabling an organization to achieve its goals.
-
-* **data infrastructure**: Data Infrastructure can be seen as a complete technology, process, or a whole set up to store, maintain, organize, and distribute it in the form of insightful information.
-
-* **data insights**: Data insights are knowledge that a company gains from analyzing sets of information pertaining to a given topic or situation. 
-  
-* **data lake**: A data lake is a storage repository that holds a vast amount of raw data in its native format until it is needed.
-
-* **data leak**: A data leak, spill or breach is the intentional or unintentional release of secure or private/confidential information to an untrusted environment.
-
-* **data legacy**: Historical data that are used by a legacy system that could be defined as a long-term mission-critical system that performs important business functions and contains comprehensive business knowledge.
-
-* **linked data**: Linked data is structured data which is interlinked with other data so it becomes more useful through semantic queries.
-
-* **data management**: Data management is the practice of collecting, keeping, and using data securely, efficiently, and cost-effectively.
-
-* **data mart**: A data mart is a structure / access pattern specific to data warehouse environments, used to retrieve client-facing data.
-
-* **data mesh**: Data system that tries to achieve the promise of scale, while delivering quality and integrity guarantees needed to make data usable : 1) domain-oriented decentralized data ownership and architecture, 2) data as a product, 3) self-serve data infrastructure as a platform, and 4) federated computational governance.
-
-* **metadata**: Metadata is data about data. In other words, it's information that's used to describe the data that's contained in something like a web page, document, or file.
-
-* **data migration**: Data migration or database migration is the process of selecting, preparing, extracting, and transforming data and permanently transferring it from one computer storage system to another.
-
-* **data mining**: Data mining is a process of extracting and discovering patterns in large data sets involving methods at the intersection of machine learning, statistics, and database systems.
-
-* **data model**: A data model is an abstract model that organizes elements of data and standardizes how they relate to one another and to the properties of real-world entities.
-
-* **data monetization**: Data Monetization refers to the process of using data to obtain quantifiable economic benefit.
-
-* **data monitoring**: Data monitoring is a business practice in which critical business data is routinely checked against quality control rules to make sure it is always of high quality and meets previously established standards for formatting and consistency.
-
-* **open data**: Open Data is the idea that some data should be freely available to everyone to use and republish as they wish, without restrictions from copyright, patents or other mechanisms of control.
-
-* **data ops**: DataOps is a set of practices and tools that allow data scientists, data engineers, infrastructure engineers and also developers to collaborate together having full autonomy, ownership and accountability of the data product.
-
-* **personal data**: Personal data is information that relates to an identified or identifiable individual.
-
-* **data pipeline**: A pipeline or data pipeline is a set of data processing elements connected in series, where the output of one element is the input of the next one.
-
-* **data platform**: A data platform is an integrated technology solution that allows data located in database(s) to be governed, accessed, and delivered to users, data applications, or other technologies for strategic business purposes.
-
-* **data point**: A data point or observation is a set of one or more measurements on a single member of the unit of observation.
-
-* **open data portal**: An open data portal is any online platform which supports users in accessing collections of open data.
-
-* **data product**: A data product is an application or tool that uses data to help businesses improve their decisions and processes.
-
-* **data quality**: Data quality is a measure of the condition of data based on factors such as accuracy, completeness, consistency, reliability and whether it's up to date.
-
-* **real-time data**: Real-time data is information that is delivered immediately after collection. There is no delay in the timeliness of the information provided.
-
-* **data reporting**: Data reporting is the process of collecting and formatting raw data and translating it into a digestible format to assess the ongoing performance of your organization. Your data reports can answer basic questions about the state of your business.
-
-* **data schema**: A database schema is the skeleton structure that represents the logical view of the entire database. It defines how the data is organized and how the relations among them are associated. It formulates all the constraints that are to be applied on the data.
-
-* **data science**: Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from structured and unstructured data, and apply knowledge and actionable insights from data across a broad range of application domains.
-
-* **data scraping**: Data scraping is a technique where a computer program extracts data from human-readable output coming from another program.
-
-* **data security**: Data security refers to the process of protecting data from unauthorized access and data corruption throughout its lifecycle. Data security includes data encryption, hashing, tokenization, and key management practices that protect data across all applications and platforms.
-
-* **data set**: A data set (or dataset) is a collection of data.
-
-* **spatial data**: Geospatial, spatial, geographic or location data is information that describes objects, events or other features with a location on or near the surface of the earth. Geospatial data typically combines location information (usually coordinates on the earth) and attribute information (the characteristics of the object, event or phenomena concerned) with temporal information (the time or life span at which the location and attributes exist).
-
-* **data specification**: A data definition specification is a guideline to ensure comprehensive and consistent data definition. It represents the attributes required to quantify data definition.
-
-* **data specialization**: The different roles and positions (data scientist, data engineer, analytics engineer, ML engineer...) that are related to the modern data stack. It is also associated with the degree of specialization from generalists (almost full-stack engineers) to especialists.
-
-* **modern data stack**: The modern data stack (MDS) is a suite of tools used for data integration. These tools include, in order of how the data flows: a fully managed ELT data pipeline, a cloud-based columnar warehouse or data lake as a destination, a data transformation tool, and a business intelligence or data visualization platform.
-
-* **data storage**: Data storage refers to the use of recording media to retain data using computers or other devices.
-
-* **data structure**: A data structure is a data organization, management, and storage format that enables efficient access and modification. More precisely, a data structure is a collection of data values, the relationships among them, and the functions or operations that can be applied to the data, i.e., it is an algebraic structure about data.
-
-* **structured data**: Structured data is data that adheres to a pre-defined data model and is therefore straightforward to analyse. Structured data conforms to a tabular format with relationship between the different rows and columns. Common examples of structured data are Excel files or SQL databases.
-
-* **data synchronization**: Data synchronization is the process of establishing consistency among data from a source to a target data storage and vice versa and the continuous harmonization of the data over time.
-
-* **data team**: The group of people within a certain organization that is in charge of maintaining the modern data stack.
-
-* **test data**: Test data is data which has been specifically identified for use in tests, typically of a computer program. Some data may be used in a confirmatory way, typically to verify that a given set of input to a given function produces some expected result.
-
-* **data type**: A data type is a classification of data which tells the compiler or interpreter how the programmer intends to use the data. Most programming languages support various types of data, including integer, real, character or string, and Boolean.
-
-* **unstructured data**: Unstructured data is information that either does not have a pre-defined data model or is not organized in a pre-defined manner. Unstructured information is typically text-heavy, but may contain data such as dates, numbers, and facts as well.
-
-* **data visualization**: Data visualization is an interdisciplinary field that deals with the graphic representation of data. It is a particularly efficient way of communicating when the data is numerous as for example a time series.
-
-* **data warehouse**: A data warehouse is a type of data management system that is designed to enable and support business intelligence (BI) activities, especially analytics. Data warehouses are solely intended to perform queries and analysis and often contain large amounts of historical data.
